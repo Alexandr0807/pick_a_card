@@ -33,4 +33,4 @@ number =STDIN.gets.to_i
 number.times do
 	put cards.pop
 end
-
+/*Изменения*/
